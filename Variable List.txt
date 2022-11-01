@@ -1,0 +1,45 @@
+Variable List for Dataset "p"
+
+Variable: Values of Variable
+
+department: Name of the recipient institution
+
+shanghai: Shanghai ranking of the recipient institution
+
+qs: QS ranking of the recipient institution
+
+comborank: Sum of Shanghai and QS ranking (used for determining weight)
+
+weight: Weight used for placement rankings, as described in the article
+
+continent: Continent of recipient institution 
+
+facultyname: Name of the faculty member. Redacted in the publicly available dataset
+
+phdfrom: Name of the sending institution
+
+phdwhen: Denoting whether the PhD was obtained in the 20th (1) or 21st (2) century
+
+gender: Gender of the faculty member
+
+position: Denoting the exact position of the faculty member (p = Full Prof)
+
+notes: Notes on some universities with multiple departments or faculty members from diverse backgrounds
+
+
+
+Variable List for Dataset "sq"
+
+Variable: Values of Variable
+
+uni: Name of the university
+
+placement: Placement ranking of the university (i.e., the Appendix 1 ranking)
+
+q: QS ranking of the university
+
+shanghai: Shanghai ranking of the university
+
+continent: Continent of the university
+
+departmentsize: Number of permanent faculty members of the university
