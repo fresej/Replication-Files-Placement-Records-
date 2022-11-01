@@ -2,7 +2,7 @@
 
 This repository contains the R datasets, the variable list, and the R script needed for replicating all analyses behind my paper "Placement Records and Gendered Placements in the Political Science Profession". 
 
-The dataset "p.RData" (Placements) is used for the weighted and unweighted placement ranking, as well as the analyses of gendered placements.
+The dataset "p.RData" (Placements) is used for the weighted and unweighted placement ranking, as well as the analyses of gendered placements. It has been redacted to exclude the names of individual faculty members.
 
 The dataset "sq.RData" (Shanghai/QS) is used for the bivariate and multivariate analyses of the relationship between the placement ranking and the QS/Shanghai ranking, the department size, and the region of departments.
 
