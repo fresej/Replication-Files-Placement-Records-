@@ -1,6 +1,6 @@
 # Replication-Files-Placement-Records-
 
-The datasets, the variable list, and the script for replicating all analyses behind my paper "Placement Records and Gendered Placements in the Political Science Profession". 
+This repository contains the datasets, the variable list, and the script needed for replicating all analyses behind my paper "Placement Records and Gendered Placements in the Political Science Profession". 
 
 The dataset "p" (Placements) is used for the weighted and unweighted placement ranking, as well as the analyses of gendered placements.
 
